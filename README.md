@@ -1,6 +1,13 @@
 ### Hi, I'm Noelle Mu.
 
-I'm a DevOps Engineer at [Garena](https://www.garena.sg/). Currently I'm focusing on Cloud Native, Site Reliability Engineering, DevOps, Monitoring and Operation-automation.
+I used to be a DevOps Engineer at [Garena](https://www.garena.sg/), but now I'm looking for a new job as a:
+
+- Golang Back-end Developer
+- Site Reliability Engineer
+- DevOps Engineer
+- ......
+
+Currently I'm focusing on Cloud Native, Site Reliability Engineering, DevOps, Monitoring and Operation-automation.
 
 - 🐭 Back-end with Golang
 - 💻 Front-end with Reactjs and Typescript
